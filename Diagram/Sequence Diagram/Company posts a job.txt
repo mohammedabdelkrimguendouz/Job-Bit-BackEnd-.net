@@ -1,0 +1,15 @@
+Purpose:
+Explains how a company publishes a new job offer.
+
+Flow:
+The Company logs in.
+
+Navigates to the Post Job page.
+
+Enters job details.
+
+The system validates the input:
+
+    If valid → saves to the Database, shows success.
+
+    If invalid → displays error.

@@ -1,0 +1,18 @@
+Purpose:
+Represents the states a job posting goes through from the company’s side.
+
+States:
+PostedJob: The job is published.
+
+ReceivingApplications: Job seekers start applying.
+
+ReviewingApplication: The company views an application.
+
+Then either:
+
+   Accepted: Company accepts the application.
+
+   Rejected: Company rejects the application.
+
+The flow ends.
+

@@ -1,0 +1,84 @@
+1. Users
+
+These are people registered in the system
+Each user has: an ID number, phone number, email, password, and account status (active or inactive)
+
+2. Job Seekers
+
+These are users who are looking for jobs
+They have additional information: first and last name, date of birth, profile picture, CV/resume
+They can link their accounts to other professional sites like LinkedIn and GitHub
+
+3. Companies
+
+These are organizations that post job opportunities
+Each company has: a name, description, logo, and a link to their website
+
+4. Jobs
+
+These are employment opportunities posted by companies
+They include: job type, posting date, whether it's available or not, required years of experience, job description, and job title
+
+5. Requests
+
+These are job applications submitted by job seekers
+They include: submission date and application status (accepted, under review, rejected)
+
+6. Skills
+
+These are different abilities and experiences
+They can be required for jobs or possessed by job seekers
+
+7. Wilayas
+
+These are geographical regions or provinces
+They help identify the location of job seekers and jobs
+
+How Are These Things Connected?
+
+Users and Job Seekers:
+
+Every job seeker is a user in the system
+But not every user is necessarily a job seeker (they could represent a company)
+
+
+Users and Companies:
+
+Each company is represented by a user account
+A user can be associated with one companies
+
+
+Job Seekers and Skills:
+
+Each job seeker can have multiple skills
+Each skill can be possessed by multiple job seekers
+
+
+Job Seekers and Requests:
+
+A job seeker can submit multiple job applications
+But each application belongs to only one job seeker
+
+
+Companies and Jobs:
+
+Each company can post multiple jobs
+But each job belongs to only one company
+
+
+Jobs and Skills:
+
+Each job may require multiple skills
+Each skill may be required by multiple different jobs
+
+
+Requests and Jobs:
+
+Each job application is linked to only one job
+But a single job can receive multiple applications
+
+
+Job Seekers and Wilayas:
+
+Each job seeker belongs to one geographic region or province
+But each region can have multiple job seekers

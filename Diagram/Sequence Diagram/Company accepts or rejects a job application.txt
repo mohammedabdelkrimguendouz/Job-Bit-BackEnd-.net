@@ -1,0 +1,26 @@
+Purpose:
+Shows how a company views an applicant and either accepts or rejects them.
+
+Flow:
+The Company logs into the dashboard.
+
+It requests the list of job applications via the Application Service.
+
+The system queries the Database and returns the applications to the dashboard.
+
+The company selects a specific applicant to view.
+
+The Job Seeker Service fetches the applicant’s profile from the Database.
+
+The profile is displayed to the company.
+
+The company makes a decision:
+
+     If the applicant is suitable → selects Accept.
+
+     If not suitable → selects Reject.
+
+The Application Service updates the status accordingly in the Database.
+
+The Notification Service informs the job seeker whether they were accepted or rejected.
+

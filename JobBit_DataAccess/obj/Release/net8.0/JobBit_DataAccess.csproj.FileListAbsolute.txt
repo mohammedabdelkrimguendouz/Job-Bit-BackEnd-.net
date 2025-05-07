@@ -1,0 +1,13 @@
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_DataAccess\bin\Release\net8.0\JobBit_DataAccess.deps.json
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_DataAccess\bin\Release\net8.0\JobBit_DataAccess.dll
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_DataAccess\bin\Release\net8.0\JobBit_DataAccess.pdb
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_DataAccess\obj\Release\net8.0\JobBit_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_DataAccess\obj\Release\net8.0\JobBit_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_DataAccess\obj\Release\net8.0\JobBit_DataAccess.AssemblyInfoInputs.cache
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_DataAccess\obj\Release\net8.0\JobBit_DataAccess.AssemblyInfo.cs
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_DataAccess\obj\Release\net8.0\JobBit_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_DataAccess\obj\Release\net8.0\JobBit_DataAccess.sourcelink.json
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_DataAccess\obj\Release\net8.0\JobBit_DataAccess.dll
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_DataAccess\obj\Release\net8.0\refint\JobBit_DataAccess.dll
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_DataAccess\obj\Release\net8.0\JobBit_DataAccess.pdb
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_DataAccess\obj\Release\net8.0\ref\JobBit_DataAccess.dll

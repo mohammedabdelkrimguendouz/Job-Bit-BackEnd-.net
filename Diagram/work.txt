@@ -1,0 +1,9 @@
+n Simple Terms, How Does the System Work?
+
+Companies register on the website and post job openings
+Job seekers create accounts and add their personal information and skills
+Job seekers search for suitable jobs and apply for them
+The system tracks job applications and their statuses
+Jobs and job seekers can be filtered by skills and geographic regions
+
+This diagram is like a map showing how information is organized and stored in the job system's database, and how this information is connected to facilitate the process of searching for and applying to jobs.

@@ -1,0 +1,15 @@
+Purpose:
+Describes how a job seeker browses and applies for a job.
+
+Flow:
+The Job Seeker logs in to the platform.
+
+They browse job listings pulled from the Database.
+
+The user selects a job and submits an application.
+
+The Application Service stores the application in the Database.
+
+The Notification Service looks up the company contact and sends a notification about the new applicant.
+
+The job seeker is shown a success confirmation.

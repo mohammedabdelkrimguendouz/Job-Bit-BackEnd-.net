@@ -1,0 +1,22 @@
+1-CMD
+
+ngrok 
+
+ngrok config add-authtoken 2u9auYUrk06cnkvLz27y5sG13r5_9nfi4v6nMqwdRimFW9bB
+
+cls
+
+ngrok http --host-header=rewrite 5174
+
+2-
+ssh -R 80:localhost:5174 serveo.net
+ssh -o ServerAliveInterval=60 -R 80:localhost:5174 serveo.net
+3-
+npx localtunnel --port 5174
+4-
+npx cloudflared tunnel --url http://localhost:5174
+
+
+
+
+

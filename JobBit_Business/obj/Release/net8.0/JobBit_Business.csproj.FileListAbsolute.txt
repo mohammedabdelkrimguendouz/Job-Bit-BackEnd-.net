@@ -1,0 +1,16 @@
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_Business\bin\Release\net8.0\JobBit_Business.deps.json
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_Business\bin\Release\net8.0\JobBit_Business.dll
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_Business\bin\Release\net8.0\JobBit_Business.pdb
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_Business\bin\Release\net8.0\JobBit_DataAccess.dll
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_Business\bin\Release\net8.0\JobBit_DataAccess.pdb
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_Business\obj\Release\net8.0\JobBit_Business.csproj.AssemblyReference.cache
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_Business\obj\Release\net8.0\JobBit_Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_Business\obj\Release\net8.0\JobBit_Business.AssemblyInfoInputs.cache
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_Business\obj\Release\net8.0\JobBit_Business.AssemblyInfo.cs
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_Business\obj\Release\net8.0\JobBit_Business.csproj.CoreCompileInputs.cache
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_Business\obj\Release\net8.0\JobBit_Business.sourcelink.json
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_Business\obj\Release\net8.0\JobBit_B.6468D65B.Up2Date
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_Business\obj\Release\net8.0\JobBit_Business.dll
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_Business\obj\Release\net8.0\refint\JobBit_Business.dll
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_Business\obj\Release\net8.0\JobBit_Business.pdb
+C:\Users\Guendouz.M.A\Desktop\Memoire Project (13-03-2025)\JobBit_Business\obj\Release\net8.0\ref\JobBit_Business.dll

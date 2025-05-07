@@ -1,0 +1,17 @@
+Purpose:
+Displays the interaction lifecycle of a job seeker on your platform.
+
+States:
+Registered: Signed up.
+
+LoggedIn: Logged into their account.
+
+BrowsingJobs: Viewing job listings.
+
+Applied: Submitted a job application.
+
+WaitingResponse: Waiting for company action.
+
+ApplicationResultSeen: Views either acceptance or rejection.
+
+Ends here.

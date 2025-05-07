@@ -1,0 +1,15 @@
+Purpose:
+Shows the lifecycle of a job application from submission to final result.
+
+States:
+Submitted: Job seeker submits an application.
+
+Viewed: Company opens the application.
+
+Then either:
+
+   Accepted → then SeenBySeeker
+
+   Rejected → then SeenBySeeker
+
+Once the seeker views the result → the process ends.
