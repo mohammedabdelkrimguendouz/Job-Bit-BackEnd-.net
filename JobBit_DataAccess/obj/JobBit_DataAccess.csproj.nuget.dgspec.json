@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit_DataAccess\\JobBit_DataAccess.csproj": {}
+    "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit_DataAccess\\JobBit_DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit_DataAccess\\JobBit_DataAccess.csproj": {
+    "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit_DataAccess\\JobBit_DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit_DataAccess\\JobBit_DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit_DataAccess\\JobBit_DataAccess.csproj",
         "projectName": "JobBit_DataAccess",
-        "projectPath": "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit_DataAccess\\JobBit_DataAccess.csproj",
+        "projectPath": "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit_DataAccess\\JobBit_DataAccess.csproj",
         "packagesPath": "C:\\Users\\Guendouz.M.A\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit_DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit_DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit\\JobBit.csproj": {}
+    "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit\\JobBit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit\\JobBit.csproj": {
+    "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit\\JobBit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit\\JobBit.csproj",
+        "projectUniqueName": "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit\\JobBit.csproj",
         "projectName": "JobBit",
-        "projectPath": "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit\\JobBit.csproj",
+        "projectPath": "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit\\JobBit.csproj",
         "packagesPath": "C:\\Users\\Guendouz.M.A\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit\\obj\\",
+        "outputPath": "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit_Business\\JobBit_Business.csproj": {
-                "projectPath": "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit_Business\\JobBit_Business.csproj"
+              "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit_Business\\JobBit_Business.csproj": {
+                "projectPath": "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit_Business\\JobBit_Business.csproj"
               }
             }
           }
@@ -110,14 +110,14 @@
         }
       }
     },
-    "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit_Business\\JobBit_Business.csproj": {
+    "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit_Business\\JobBit_Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit_Business\\JobBit_Business.csproj",
+        "projectUniqueName": "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit_Business\\JobBit_Business.csproj",
         "projectName": "JobBit_Business",
-        "projectPath": "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit_Business\\JobBit_Business.csproj",
+        "projectPath": "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit_Business\\JobBit_Business.csproj",
         "packagesPath": "C:\\Users\\Guendouz.M.A\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit_Business\\obj\\",
+        "outputPath": "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit_Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -138,8 +138,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit_DataAccess\\JobBit_DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit_DataAccess\\JobBit_DataAccess.csproj"
+              "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit_DataAccess\\JobBit_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit_DataAccess\\JobBit_DataAccess.csproj"
               }
             }
           }
@@ -179,14 +179,14 @@
         }
       }
     },
-    "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit_DataAccess\\JobBit_DataAccess.csproj": {
+    "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit_DataAccess\\JobBit_DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit_DataAccess\\JobBit_DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit_DataAccess\\JobBit_DataAccess.csproj",
         "projectName": "JobBit_DataAccess",
-        "projectPath": "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit_DataAccess\\JobBit_DataAccess.csproj",
+        "projectPath": "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit_DataAccess\\JobBit_DataAccess.csproj",
         "packagesPath": "C:\\Users\\Guendouz.M.A\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit_DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit_DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

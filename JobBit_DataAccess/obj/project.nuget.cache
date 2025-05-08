@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0IxyLMWLsgg=",
+  "dgSpecHash": "hWgpFS4GS1c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guendouz.M.A\\Desktop\\Memoire Project (3-04-2025)\\JobBit_DataAccess\\JobBit_DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Guendouz.M.A\\Desktop\\My Files\\Memoire License\\Job Bit BackEnd .net\\JobBit_DataAccess\\JobBit_DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guendouz.M.A\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Guendouz.M.A\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
